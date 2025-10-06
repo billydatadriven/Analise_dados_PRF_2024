@@ -7,10 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <!-- Imagem redimensionada -->
-<img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" alt="texto alt" width="100">
-
-<!-- Imagem redimensionada -->
-<img src="https://www.globalempregos.com.br/wp-content/uploads/2022/09/ciencia-de-dados.png" alt="texto alt" width="600">
+<img src="https://github.com/billydatadriven/Analise_dados_PRF_2024/blob/main/imagem/Gemini_Generated_Image_o1opr4o1opr4o1op.png?raw=true" alt="texto alt" width="600">
 
 ## 📋 Sobre o Projeto
 
