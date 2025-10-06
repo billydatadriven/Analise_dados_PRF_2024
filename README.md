@@ -1,9 +1,16 @@
 # 🚗 Análise de Dados PRF 2024 - Redução de Acidentes nas Rodovias Federais
 
+[![Autor](https://img.shields.io/badge/Autor-AlanBilly-blue.svg)](https://www.linkedin.com/in/alanbillyteixeirareis)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<!-- Imagem redimensionada -->
+<img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" alt="texto alt" width="100">
+
+<!-- Imagem redimensionada -->
+<img src="https://www.globalempregos.com.br/wp-content/uploads/2022/09/ciencia-de-dados.png" alt="texto alt" width="600">
 
 ## 📋 Sobre o Projeto
 
@@ -68,7 +75,7 @@ Analise dados PRF/
 
 ### Linguagem e Ambiente
 - **Python 3.11+**
-- **Jupyter Notebook**
+- **VScode**
 - **Ambiente Virtual** (prf_ven)
 
 ### Bibliotecas Principais
@@ -215,6 +222,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para dúvidas, sugestões ou colaborações:
 - 💼 LinkedIn: [Billy Reis](https://www.linkedin.com/in/alanbillyteixeirareis/)
+
+## 🎁 Expressões de gratidão
+
+- Compartilhe com outras pessoas esse projeto 📢;
+- Quer saber mais sobre o projeto? Entre em contato para tomarmos um ☕;
 
 ---
 
